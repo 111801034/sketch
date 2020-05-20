@@ -30,7 +30,7 @@ function keyPressed() {
 function draw() {
     background(51);
     textSize(32);
-    text('DRAW', width/2-80, 40);
+    text('SKETCH', width/2-80, 40);
 
 
     if (isDrawing) {
